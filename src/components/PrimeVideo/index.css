@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+}
+.prime-image {
+  height: 280px;
+  width: 100%;
+}
+.action-heading {
+  color: #ffffff;
+  /* color: black; */
+}
+.prime-container {
+  padding: 10px 50px;
+  margin-bottom: 20px;
+}
+.comedy-heading {
+  margin-top: 30px;
+  color: #ffffff;
+}
